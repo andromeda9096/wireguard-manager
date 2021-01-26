@@ -1,1 +1,3 @@
-# wireguard-manager
+# wireguard-manager docker-compose
+
+
