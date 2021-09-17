@@ -2,7 +2,7 @@ version: "2.1"
 services:
   wireguard:
     container_name: wg-manager
-    image: perara/wg-manager
+    image: andromeda9096/wireguardserver-ui:v1
     restart: always
     #sysctls:
       #net.ipv6.conf.all.disable_ipv6: 0  # Required for IPV6
