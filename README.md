@@ -9,5 +9,5 @@ docker-compose up -d
 ### Login
 Login http://127.0.0.1:8888
 
-user: admin
-pass: y0urpassw0rd (change in docker-compose.yaml)
+- user: admin
+- pass: y0urpassw0rd (change in docker-compose.yaml)
