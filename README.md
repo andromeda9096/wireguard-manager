@@ -1,4 +1,4 @@
-# wireguard-manager with UI docker-compose
+# wireguard-Server with UI docker-compose
 ### Install
 ```
 git clone https://github.com/andromeda9096/wireguard-manager.git
